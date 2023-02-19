@@ -1,5 +1,5 @@
 # Airline302_Sunum
-Merhaba, Airline302 İstanbul - Beşiktaş Wissen Akademi'de eğitim gördüğüm süreçte 302 sınıfı ile yazdık. Turkish Airlines ve Pegasus uygulamasından esinlenerek oluşturduğumuz bu projede uçak bileti arama ve satın alma işlemi yapılmaktadır. Asıl amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
+Merhaba, Airline302 İstanbul - Beşiktaş Wissen Akademi'de eğitim gördüğüm süreçte 302 sınıfı ile yazdık. Turkish Airlines ve Pegasus uygulamasından esinlenerek oluşturduğumuz bu projede uçak bileti arama ve satın alma işlemi yapılmaktadır. Asıl amacımız gerçek hayata yaklaşmaktır.
 
 Bu projenin tüm hakları hocamız Betül Akşan'a, bana ve 302 sabah grubu sınıfının öğrencilerine aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
